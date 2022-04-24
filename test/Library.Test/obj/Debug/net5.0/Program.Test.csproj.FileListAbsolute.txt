@@ -1,0 +1,5 @@
+c:\Users\sanbr\OneDrive\Escritorio\Programacion II (Recurso)\TDD\test\Library.Test\obj\Debug\net5.0\Program.Test.csproj.AssemblyReference.cache
+c:\Users\sanbr\OneDrive\Escritorio\Programacion II (Recurso)\TDD\test\Library.Test\obj\Debug\net5.0\Program.Test.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\sanbr\OneDrive\Escritorio\Programacion II (Recurso)\TDD\test\Library.Test\obj\Debug\net5.0\Program.Test.AssemblyInfoInputs.cache
+c:\Users\sanbr\OneDrive\Escritorio\Programacion II (Recurso)\TDD\test\Library.Test\obj\Debug\net5.0\Program.Test.AssemblyInfo.cs
+c:\Users\sanbr\OneDrive\Escritorio\Programacion II (Recurso)\TDD\test\Library.Test\obj\Debug\net5.0\Program.Test.csproj.CoreCompileInputs.cache
